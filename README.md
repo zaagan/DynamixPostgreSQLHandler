@@ -49,9 +49,7 @@ You can explore the code yourself and customize it to fit to your needs.
 
 
 
-### EXECUTE AS SCALAR
-
-#### Execute As Scalar : Using A Select Query
+### EXECUTE SQL : Basic
 
 ##### C# Code :
 
@@ -68,6 +66,8 @@ catch(System.Exception ex)
 ```
 
 
+
+### EXECUTE AS SCALAR
 
 #### Execute As Scalar : Using A Function Name
 
@@ -477,6 +477,10 @@ catch(System.Exception ex)
     // HANDLE YOUR EXCEPTION HERE
 }
 ```
+
+
+
+There are lots and lots of other ways to perform CRUD operations using this library.
 
 
 
