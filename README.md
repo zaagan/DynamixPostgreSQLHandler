@@ -202,7 +202,7 @@ catch(System.Exception ex)
 
 ##### Output :
 
-![Result](/images/cities_data_output.png)
+![Cities Data output](/images/coutput.png)
 
 
 
@@ -232,7 +232,7 @@ $BODY$;
 
 ##### Actor Table Sample :
 
-![Actors](/images/actors_data.png)
+![Actors](/images/actortable.png)
 
 The first thing you do is create a class for the Actor table like the following :
 
