@@ -7,7 +7,7 @@ namespace DynamixPostgreSQLHandler
 {
     public partial class SQLHandler
     {
-
+        
         /// <summary>
         /// Execute As List.
         /// </summary>
