@@ -13,6 +13,22 @@ DynamixPostgreSQLHandler is an SQL Handler for C#  built on top of **Npgsql**  t
 
 
 
+## Installation
+
+**Using Package Manager**
+
+```bash
+Install-Package DynamixPostgreSQLHandler -Version 1.0.0
+```
+
+
+
+**Using .NET CLI**
+
+```bash
+dotnet add package DynamixPostgreSQLHandler --version 1.0.0
+```
+
 
 
 ## Sample Database

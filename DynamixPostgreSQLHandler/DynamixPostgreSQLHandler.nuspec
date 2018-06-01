@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/zaagan/DynamixPostgreSQLHandler</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A C# - Npgsql - PostgreSQL SQLHandler for rapid development</description>
+    <releaseNotes>Features such as ExecuteAsList, ExecuteAsObject added</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>CShparp C# Npgsql PostgreSQL</tags>
+  </metadata>
+</package>
